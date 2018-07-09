@@ -1,10 +1,5 @@
 /*
- *     Sistema de cronometragem de RCÅ› via IR
- *
- *     VersÃ£o 0.2
- *
- *     Este sistema consistem em um uC Atmega328P , com atÃ© 4 sensores IR , buzzer e led de indicaÃ§Ã£o de power, conectado e corrida em execuÃ§Ã£o
- *     O software de gerenciamento de corrdas Ã© o Zround www.zround.com , onde o protocolo utilizado foi dso RiCino
+ *     Sistema de cronometragem compativel com LCB
  *
  *    Luiz Gustavo L. Fernandes + Ederson R. Carnaúba
  *
